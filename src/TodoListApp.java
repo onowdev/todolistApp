@@ -25,4 +25,16 @@ public class TodoListApp {
     public static removeTodolist(){
 
     }
+
+    public static viewTodoList(){ //View untuk Daftar todoList
+
+    }
+
+    public static viewAddTodoList(){ // View Untuk Memasukan todoList
+
+    }
+
+    public static viewRemoveTodoList(){ // wiew/Jendela untuk menghapus todoList
+
+    }
 }
